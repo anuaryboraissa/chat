@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "77879755454",
+    "project_id": "tuchati-553f8",
+    "storage_bucket": "tuchati-553f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77879755454:android:94d83860a67f495b53d4ef",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77879755454-te09bdq386bhmhcnkdos9e20ufirm3cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat",
+            "certificate_hash": "84d82709537acb96ceb134fa4c3ed30442721c51"
+          }
+        },
+        {
+          "client_id": "77879755454-v635lg3rdb72jf912lj35ero0o619tt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9yvzOz8HFZtEJ0mRlCE579O_0BCMJkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77879755454-v635lg3rdb72jf912lj35ero0o619tt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77879755454-7r1p33b2l6m92fpla7aji93j7imknoge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
